@@ -2,4 +2,4 @@
 - 🗺️ Goianésia/GO (Brazil)
 - 📫 viniciusmsok@gmail.com
 - 🐳 viniciusmsok
-- 📚 Study Materials
+- 📚 Study Materials | Full stack development - PUC/RS (2024-2025)
