@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Vinícius Silva (@viniciusmsok)
 - 🗺️ Goianésia/GO (Brazil)
 - 📫 viniciusmsok@gmail.com
-- 🐳 viniciusmsok
+- 🐳 Github | Instagram | Facebook | Discord | LinkedIN: viniciusmsok
 - 📚 Study Materials | Full stack development - PUC/RS (2024-2025)
