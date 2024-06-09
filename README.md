@@ -2,4 +2,4 @@
 - 🗺️ Goianésia/GO (Brazil)
 - 📫 viniciusmsok@gmail.com
 - 🐳 viniciusmsok
-- 📚 Study Materials | 🚀 Experiences
+- 📚 Study Materials
